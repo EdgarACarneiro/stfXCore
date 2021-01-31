@@ -3,6 +3,8 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/EdgarACarneiro/stfXCore?branch=master&token=351fd328face954f0ca7cfabd6e380c4dd4b4810)](https://bettercodehub.com/)
 [![Build Status](https://travis-ci.com/EdgarACarneiro/stfXCore.svg?token=J52cxsfW92GANe4gUJgy&branch=master)](https://travis-ci.com/EdgarACarneiro/stfXCore)
 
+> :exclamation: This repository has been archived. Further developments on this repository are done in [most-inesctec/stfXCore](https://github.com/most-inesctec/stfXCore) :exclamation:
+
 The central microservice of the [___SpatioTemporal Feature eXtractor (stfX)___](https://github.com/EdgarACarneiro/stfX). This service, built using [spring](https://spring.io), is responsible for everything that is not the computation of spatiotemporal change features. More specifically, this service responsibilities include:
 - [x] Aggregation of the spatiotemporal change features computed by the remaining services;
 - [x] Storing temporal snapshots as well as the corresponding extracted spatiotemporal change features;
